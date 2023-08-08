@@ -17,3 +17,4 @@ This bootcamp has 10 sprints
 - Essential Python for Data Analyst
 - Dashboard
 
+You can find me on LinkedIn https://www.linkedin.com/in/kornravee/
